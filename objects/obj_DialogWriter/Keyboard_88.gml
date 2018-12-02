@@ -1,0 +1,1 @@
+if (skipable) currentText = text;
